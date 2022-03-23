@@ -1,1 +1,1 @@
-# My Project Releases
+# Rainbow OCR Releases
