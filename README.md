@@ -1,5 +1,9 @@
 # Rainbow OCR Releases
 
+[Mac Version](https://github.com/oliverzy/release/releases/download/v1.2.1/RainbowOCR-1.2.1.dmg)
+
+[Windows Version](https://github.com/oliverzy/release/releases/download/v1.2.1/RainbowOCR-1.2.1-win.zip)
+
 ## v1.2.1 (2022/04/09)
 
 - Fix a bug related to the translation feature
@@ -16,7 +20,4 @@
 - Multiple Source Languages Support : Simplified Chinese, Traditional Chinese, English, Japanese, German, French, Spanish
 - A lot of bug fixes
 
-[Mac Version](https://github.com/oliverzy/release/releases/download/v1.2.1/RainbowOCR-1.2.1.dmg)
-
-[Windows Version](https://github.com/oliverzy/release/releases/download/v1.2.1/RainbowOCR-1.2.1-win.zip)
 
